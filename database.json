@@ -1,0 +1,75 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fbanner1.png?alt=media&token=fa8f8a1b-57cd-4300-a119-9c1bb9172916"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fbanner1.png?alt=media&token=fa8f8a1b-57cd-4300-a119-9c1bb9172916"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-2.appspot.com/o/2%2Ffacial-treatment.png?alt=media&token=5843c863-9b21-4163-9519-cd8900c97550",
+      "title": "Skincare"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-2.appspot.com/o/2%2Fcosmetics.png?alt=media&token=e41fcd4c-496c-492c-ba7b-972512cb9309",
+      "title": "Make up"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-2.appspot.com/o/2%2Fcomb.png?alt=media&token=c148243c-96af-471d-8fa8-c91b1539c0f5",
+      "title": "Hair Care"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-2.appspot.com/o/2%2Fspray-bottle.png?alt=media&token=20070533-7a0a-419f-ad5c-126b63218bac",
+      "title": "Perfurme"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem1.png?alt=media&token=1465bb90-c4ba-4230-81f6-cb06c9c598da",
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3_1.jpg?alt=media&token=1c24a531-efd9-421a-8958-ec6a9bd73b36",
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3_2.jpg?alt=media&token=6b222d92-2427-4dcf-bb61-7a5bb545d5a9",
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3_3.jpg?alt=media&token=cd6e93c2-81f3-4140-ba54-7409b66d1f78",
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3_4.jpg?alt=media&token=bc056b71-6985-4efd-a2ac-17406936a959",
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3_5.jpg?alt=media&token=073d7ef7-4a4a-4328-a26e-59ef5c2cbbaa"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "title": " Edu perfume"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem2.png?alt=media&token=07ae8f86-13ca-43c6-97db-d4b9df6efad2"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "title": "Herbal fragrance"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem3.png?alt=media&token=8fe8db90-3ecc-4e30-9498-532e1d45a94a"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "title": "French perfume"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project173-2.appspot.com/o/3%2Fitem4.png?alt=media&token=8194b307-6b9f-4bbc-ab23-46fb5768cacb"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "title": "female perfium"
+    }
+  ]
+}
